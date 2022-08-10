@@ -1,0 +1,51 @@
+#background {
+    background-color: #1F2937;
+    margin: -10px -10px 0px -10px;
+    display:flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+#headerlogo {
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+#awesome {
+    font-size: 48px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin-left: 20px;
+}
+.white {
+    color: #F9FAF8;
+}
+
+#offwhite, a {
+    color: #E5E7EB;
+}
+
+#yoshi {
+    max-width: 200px;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
