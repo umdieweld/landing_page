@@ -72,6 +72,11 @@ li {
     flex: 1 1 auto;
 }
 
+.imagetext {
+    max-width: 150px;
+    margin: 25px;
+}
+
 ul {
     list-style: none;
 }
@@ -81,3 +86,18 @@ a {
     color: white;
 }
 
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.imagetext {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
