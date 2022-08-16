@@ -162,3 +162,11 @@ em {
     font-weight: bold;
 }
 
+.footer {
+    text-align: center;
+    background-color: #1F2937;
+    padding: 30px;
+    color: white;
+    font-size: 14px;
+}
+
